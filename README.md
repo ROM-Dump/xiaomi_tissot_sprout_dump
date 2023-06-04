@@ -1,0 +1,20 @@
+## tissot-user 8.1.0 OPM1.171019.026 V9.6.8.0.ODHMIFE release-keys
+- Manufacturer: xiaomi
+- Platform: msm8953
+- Codename: tissot_sprout
+- Brand: xiaomi
+- Flavor: tissot-user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.71
+- Id: OPM1.171019.026
+- Incremental: V9.6.8.0.ODHMIFE
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: xiaomi/tissot/tissot_sprout:8.1.0/OPM1.171019.026/V9.6.8.0.ODHMIFE:user/release-keys
+- OTA version: 
+- Branch: tissot-user-8.1.0-OPM1.171019.026-V9.6.8.0.ODHMIFE-release-keys
+- Repo: xiaomi_tissot_sprout_dump
